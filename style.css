@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+  min-height: 120px;
+}
+
+header img { float:center }
+
+#logo1 {
+  width: 100px;
+}
+
+header h1 {
+  text-align: center;  
+  font-family: Lilita One, cursiva;
+  font-size: 48px;
+  margin: 0px;
+  text-decoration: underline;
+  color: #E96479;
+}
+
+section h2 {
+  font-family: arial;
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
+
+#logo2 {
+  width: 400px;
+}
+
+footer nav .link {
+  background-color: #7db9b6;
+  font-style: helvetica;
+  text-decoration: none;
+  border: 5px solid blue;
+  padding: 12px;
+}
+
